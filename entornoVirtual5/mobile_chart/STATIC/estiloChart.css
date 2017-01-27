@@ -1,0 +1,10 @@
+#myChart{
+	background-color:#30a11e;
+	background-color:#a8a1fc;
+	background-image: -moz-linear-gradient(top , #a8a1fc, #e0e0e0 82%);
+	background-image: -webkit-linear-gradient(top , #a8a1fc, #e0e0e0 82%);
+	background-image: -o-linear-gradient(top , #a8a1fc, #e0e0e0 82%);
+	background-image: -ms-linear-gradient(top , #a8a1fc, #e0e0e0 82%);
+	background-image: linear-gradient(top , #a8a1fc, #e0e0e0 82%)
+}
+
